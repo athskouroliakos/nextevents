@@ -9,7 +9,7 @@ const Footer = () => {
           <h5 className="h5-bold">NextEvents</h5>
         </Link>
 
-        <p>2023 NextEvents. All Rights reserved.</p>
+        <p>2024 NextEvents. All Rights reserved.</p>
       </div>
     </footer>
   );
